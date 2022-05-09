@@ -12,3 +12,10 @@
 2022-05-09 23:19:27.198  INFO 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 4.355 seconds (JVM running for 5.006)
 2022-05-09 23:19:27.202  INFO 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : Addressbook App Started in COMMON Environment
 2022-05-09 23:19:27.204  INFO 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : Addressbook App started
+2022-05-09 23:46:26.006 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 17.0.1 on LAPTOP-OG2LP9PD with PID 5968 (C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp\target\classes started by suraj in C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp)
+2022-05-09 23:46:26.008 [DEBUG] [restartedMain] [c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-09 23:46:26.009 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:640] No active profile set, falling back to 1 default profile: "default"
+2022-05-09 23:46:30.149 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-09 23:46:30.627 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 5.249 seconds (JVM running for 5.982)
+2022-05-09 23:46:30.632 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:15] Addressbook App Started in COMMON Environment
+2022-05-09 23:46:30.633 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:16] Addressbook App started
