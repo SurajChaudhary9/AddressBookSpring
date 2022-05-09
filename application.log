@@ -1,21 +1,24 @@
-2022-05-09 23:18:37.694  INFO 9084 --- [restartedMain] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 17.0.1 on LAPTOP-OG2LP9PD with PID 9084 (C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp\target\classes started by suraj in C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp)
-2022-05-09 23:18:37.695 DEBUG 9084 --- [restartedMain] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.6.7, Spring v5.3.19
-2022-05-09 23:18:37.696  INFO 9084 --- [restartedMain] c.b.a.AddressBookAppApplication          : No active profile set, falling back to 1 default profile: "default"
-2022-05-09 23:18:41.779  WARN 9084 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-05-09 23:18:42.305  INFO 9084 --- [restartedMain] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 5.218 seconds (JVM running for 5.986)
-2022-05-09 23:18:42.309  INFO 9084 --- [restartedMain] c.b.a.AddressBookAppApplication          : Addressbook App Started in COMMON Environment
-2022-05-09 23:18:42.311  INFO 9084 --- [restartedMain] c.b.a.AddressBookAppApplication          : Addressbook App started
-2022-05-09 23:19:23.374  INFO 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : Starting AddressBookAppApplication using Java 17.0.1 on LAPTOP-OG2LP9PD with PID 6096 (C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp\target\classes started by suraj in C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp)
-2022-05-09 23:19:23.376 DEBUG 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : Running with Spring Boot v2.6.7, Spring v5.3.19
-2022-05-09 23:19:23.376  INFO 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : No active profile set, falling back to 1 default profile: "default"
-2022-05-09 23:19:26.741  WARN 6096 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-05-09 23:19:27.198  INFO 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : Started AddressBookAppApplication in 4.355 seconds (JVM running for 5.006)
-2022-05-09 23:19:27.202  INFO 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : Addressbook App Started in COMMON Environment
-2022-05-09 23:19:27.204  INFO 6096 --- [restartedMain] c.b.a.AddressBookAppApplication          : Addressbook App started
-2022-05-09 23:46:26.006 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 17.0.1 on LAPTOP-OG2LP9PD with PID 5968 (C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp\target\classes started by suraj in C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp)
-2022-05-09 23:46:26.008 [DEBUG] [restartedMain] [c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.6.7, Spring v5.3.19
-2022-05-09 23:46:26.009 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:640] No active profile set, falling back to 1 default profile: "default"
-2022-05-09 23:46:30.149 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2022-05-09 23:46:30.627 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 5.249 seconds (JVM running for 5.982)
-2022-05-09 23:46:30.632 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:15] Addressbook App Started in COMMON Environment
-2022-05-09 23:46:30.633 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:16] Addressbook App started
+2022-05-10 00:54:42.460 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 17.0.1 on LAPTOP-OG2LP9PD with PID 10628 (C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp\target\classes started by suraj in C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp)
+2022-05-10 00:54:42.472 [DEBUG] [restartedMain] [c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-10 00:54:42.474 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:646] The following 1 profile is active: "DEV"
+2022-05-10 00:54:45.514 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-10 00:54:45.926 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 3.939 seconds (JVM running for 4.482)
+2022-05-10 00:54:45.931 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:15] Addressbook App Started in DEV Environment
+2022-05-10 00:54:45.932 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:16] Addressbook App started
+2022-05-10 01:16:13.119 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:55] Starting AddressBookAppApplication using Java 17.0.1 on LAPTOP-OG2LP9PD with PID 15224 (C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp\target\classes started by suraj in C:\Users\suraj\OneDrive\Documents\AddressBookSpring\addressbookapp)
+2022-05-10 01:16:13.121 [DEBUG] [restartedMain] [c.b.a.AddressBookAppApplication:56] Running with Spring Boot v2.6.7, Spring v5.3.19
+2022-05-10 01:16:13.121 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:646] The following 1 profile is active: "DEV"
+2022-05-10 01:16:16.010 [WARN] [restartedMain] [o.s.b.a.o.j.JpaBaseConfiguration$JpaWebConfiguration:219] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2022-05-10 01:16:16.401 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:61] Started AddressBookAppApplication in 3.721 seconds (JVM running for 4.243)
+2022-05-10 01:16:16.407 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:15] Addressbook App Started in DEV Environment
+2022-05-10 01:16:16.408 [INFO] [restartedMain] [c.b.a.AddressBookAppApplication:16] Addressbook App started
+2022-05-10 01:18:20.390 [WARN] [http-nio-8080-exec-6] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:19:34.315 [WARN] [http-nio-8080-exec-9] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:20:31.924 [WARN] [http-nio-8080-exec-10] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:20:42.352 [WARN] [http-nio-8080-exec-2] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:22:05.179 [WARN] [http-nio-8080-exec-4] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:22:40.097 [WARN] [http-nio-8080-exec-5] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:23:04.691 [WARN] [http-nio-8080-exec-6] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:23:05.789 [WARN] [http-nio-8080-exec-7] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:25:50.664 [WARN] [http-nio-8080-exec-2] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
+2022-05-10 01:25:58.838 [WARN] [http-nio-8080-exec-1] [o.s.w.s.m.s.DefaultHandlerExceptionResolver:208] Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'GET' not supported]
